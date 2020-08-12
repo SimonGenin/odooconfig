@@ -1,0 +1,13 @@
+{
+  "name": "odooconfig",
+  "version": "0.0.1",
+  "description": "Project that contains helpful configurations",
+  "license": "MIT",
+  "scripts": {},
+  "repository": "https://github.com/SimonGenin/odooconfig",
+  "author": "Simon Genin (ges) <ges@odoo.com>",
+  "dependencies": {},
+  "devDependencies": {
+    "eslint": "^7.6.0"
+  }
+}
